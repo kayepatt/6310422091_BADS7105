@@ -11,7 +11,14 @@ After run K-Means model via Google Big Query, I've got the following 4 customer 
 ![see this](CustomerSegmentation.png)
 
 And then, I'd like to know each customer type more so I use explore data in Google Data Studio.
-Group1 (centroid1) this is depleting grp. They come when they want with little spending.
+Group1 (centroid1) *TOP SPENDERs* This group comes once a week with powerful consumption.
 ![see this](Centroid1.png)
 
-Group2 (centroid2) 
+Group2 (centroid2) *USUAL CLIENT* This group comes once~twice a week with general consumption. 
+![see this](Centroid2.png)
+
+Group3 (centroid3) *ON A BUDGET* This group comes once a week with well-prepared budget.  
+![see this](Centroid3.png)
+
+Group4 (centroid4) *FREEDOM* This group comes alternately with unplanned. But you couldn't do much coz they're really niche/rare.
+![see this](Centroid4.png)
