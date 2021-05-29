@@ -24,3 +24,5 @@ Collecting assignments of Customer Relationship Management Analytics
 
 ## Assignment 11 : Voice of Customers
 ### NLP - Natural Language Processing
+
+## Assignment 12 : Design Thinking
