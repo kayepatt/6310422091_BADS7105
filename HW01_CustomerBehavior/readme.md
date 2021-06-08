@@ -1,1 +1,3 @@
-
+- Collecting survey response from 63 persons in class (Male 34, Female 28, N/A 1)
+- Picking 30 topics to be questions which half of it ask the interest and another half ask the consumption by rating it from 1 to 7 (least to most)
+-  
