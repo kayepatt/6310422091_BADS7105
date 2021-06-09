@@ -22,6 +22,6 @@
 * 4) Mutual Interest (own choice)
     * Pets, Sports/Football, Technology, Investment
 
-
-    
+![see this](data.png)
+ *remark: revise scale from 1-7 to 1-5 by cutting 1-2 score out as HATE factor*
     
