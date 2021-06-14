@@ -24,7 +24,7 @@ This time, support is misleading so we will look through another 2 metrics
 If Lift > 1 we can summarize that items occur in transactions together more often than we would expect based on their individual support values. 
 
 So let's filtering the metric by Lift>=1 and Confidence >=0.5
-
+![GitHub Logo](PDR8.png)
 
 There are 2 more metrics shown in the table so it'd better to understand it!
 ![GitHub Logo](PDR5.png)
