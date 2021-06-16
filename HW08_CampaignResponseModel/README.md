@@ -17,10 +17,13 @@ Total spending for all transaction group by customer id
 ![GitHub Logo](CS1.png)
 
 > RESULT1: Descriptive data from overall 6,889 customers
+> 
 > Recency, Means 80 days, SD 85
 >  ![GitHub Logo](CS2.png)
+>  
 >  Frequency, Means 18 days, SD 5
 >  ![GitHub Logo](CS3.png)
+>  
 >  Monetary, Means 1,179 days, SD 465
 >  ![GitHub Logo](CS4.png)
 
