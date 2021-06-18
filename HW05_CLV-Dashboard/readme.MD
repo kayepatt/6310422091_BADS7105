@@ -1,4 +1,4 @@
-## I'd like to present you the Customer Lifetime Value (CLV) Dashboard :chart_with_downwards_trend:
+## Customer Lifetime Value (CLV) Dashboard :chart_with_downwards_trend:
 ![GitHub Logo](CLV_Dashboard.png)
 
 ### Contents
