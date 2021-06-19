@@ -6,6 +6,8 @@ Super thanks and Credit to all members. :metal:
 Before launching new products/service/ or system version, business tend to comparing two options to see which one performs better.
 It's frequently seen in Creative-related job like UI in application/ website e.g. Facebook provides A/B Testing function for their Ads client.
 
+![GitHub Logo](Split_testing_op_Facebook-1.png)
+
 #### STEP TO DO (in group class)
 We got time less than an hour to discuss the topic, create survey form, gathering answers, analyze the results, and present :exclamation:
 
@@ -23,4 +25,4 @@ We will get rating score and surveyee basic info
 
 3. 40 answers have statistics results as follow.
 That totally conclude that people prefer Ka-Prao (กะเพรา) without lentils (ถั่วฝักยาว) to Ka-Prao (กะเพรา) with lentils (ถั่วฝักยาว).
-5. ![GitHub Logo](MicrosoftTeams-image(4).png)
+![GitHub Logo](MicrosoftTeams-image(4).png)
