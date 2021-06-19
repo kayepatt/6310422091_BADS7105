@@ -25,4 +25,6 @@ We will get rating score and surveyee basic info
 
 3. 40 answers have statistics results as follow.
 That totally conclude that people prefer Ka-Prao (กะเพรา) without lentils (ถั่วฝักยาว) to Ka-Prao (กะเพรา) with lentils (ถั่วฝักยาว).
-![GitHub Logo](MicrosoftTeams-image(4).png)
+![GitHub Logo](MicrosoftTeams-images.png)
+
+:clap::clap::clap::clap::clap:
