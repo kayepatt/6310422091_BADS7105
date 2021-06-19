@@ -6,6 +6,7 @@ And Customer Retention Rate (CRR) = [(E-N)/S]*100
 *E - Number of Customers at end of period
 N - Number of Customers acquire during period
 S -Number of Customers at start of period*
+
 Then, we will know the Break Even Point (BEP) from [Period Calculation / (Churn + Repeat)
 
 As a result, if we know status of customers, it will very helpful for retention activity.
